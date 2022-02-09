@@ -16,7 +16,7 @@
             <property name="eclipselink.logging.level" value="INFO"/>
 <!--            <property name="eclipselink.logging.level.sql" value="INFO"/>-->
 <!--            <property name="eclipselink.logging.parameters" value="true"/>-->
-            <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/jpql_demo?serverTimezone=UTC"/>
+            <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/JPQL_demo?serverTimezone=UTC"/>
             <property name="javax.persistence.jdbc.user" value="dev"/>
             <property name="javax.persistence.jdbc.password" value="ax2"/>
         </properties>
